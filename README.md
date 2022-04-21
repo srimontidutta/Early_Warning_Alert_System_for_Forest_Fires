@@ -15,7 +15,7 @@ The aim of our EDA is to determine:
 3. Which meteorological parameters contribute the most towards increasing the area burned by forest fires.
 
 
-## Features Provided
+## Attribute Information
 For this dataset you are provided with the following features/attributes of a park:
 
 **X** - x-axis spatial coordinate within the Montesinho park map: 1 to 9
