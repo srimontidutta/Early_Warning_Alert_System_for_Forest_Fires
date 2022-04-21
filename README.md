@@ -1,0 +1,1 @@
+# Early_Warning_Alert_System_for_Forest_Fires
