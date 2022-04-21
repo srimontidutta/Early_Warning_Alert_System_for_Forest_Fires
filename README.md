@@ -6,7 +6,7 @@ Forest fires are the cause of massive flora, fauna, and economical losses every 
 
 This work is utilizing the dataset given by Cortez and Morais (2007), which documents forest fire data from Montesinho natural park, Northeast Portugal. There are 517 entries in the dataset and the studied dataset consists of monthly and daily forest fire count, meteorological observations, spatial axis coordinates, and soil moisture indices.
 
-## Exploratory Data Analysis    GCCCCCCCCCCCCCCCCCCCCC jhcjjjjjjjjjcccccccccc
+## Exploratory Data Analysis  
 
 The aim of our EDA is to determine:
 
